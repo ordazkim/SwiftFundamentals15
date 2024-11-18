@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		50B506702CEABAC0008A77C2 /* light.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50B5066F2CEABAC0008A77C2 /* light.swift */; };
 		A913CDCC1E290CFE009D825C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A913CDCB1E290CFE009D825C /* AppDelegate.swift */; };
 		A913CDCE1E290CFE009D825C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A913CDCD1E290CFE009D825C /* ViewController.swift */; };
 		A913CDD11E290CFE009D825C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A913CDCF1E290CFE009D825C /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		50B5066F2CEABAC0008A77C2 /* light.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = light.swift; path = ../../../../../light.swift; sourceTree = "<group>"; };
 		A913CDC81E290CFE009D825C /* FirstTimeDebugging.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FirstTimeDebugging.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A913CDCB1E290CFE009D825C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A913CDCD1E290CFE009D825C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				F793895A26A73A0100F9FCDA /* SceneDelegate.swift */,
 				A913CDCD1E290CFE009D825C /* ViewController.swift */,
 				A913CDCF1E290CFE009D825C /* Main.storyboard */,
+				50B5066F2CEABAC0008A77C2 /* light.swift */,
 				A913CDD21E290CFE009D825C /* Assets.xcassets */,
 				A913CDD41E290CFE009D825C /* LaunchScreen.storyboard */,
 				A913CDD71E290CFE009D825C /* Info.plist */,
@@ -142,6 +145,7 @@
 			files = (
 				A913CDCE1E290CFE009D825C /* ViewController.swift in Sources */,
 				A913CDCC1E290CFE009D825C /* AppDelegate.swift in Sources */,
+				50B506702CEABAC0008A77C2 /* light.swift in Sources */,
 				F793895B26A73A0100F9FCDA /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
